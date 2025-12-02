@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/health-insights-dashboard-217626-217636/health_insight_frontend
+flutter analyze
+
